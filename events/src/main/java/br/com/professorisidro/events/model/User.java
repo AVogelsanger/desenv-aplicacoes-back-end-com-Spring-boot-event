@@ -2,8 +2,6 @@ package br.com.professorisidro.events.model;
 
 import jakarta.persistence.*;
 
-import java.util.List;
-
 @Entity
 @Table(name = "tbl_user")
 public class User {
